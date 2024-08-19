@@ -4,7 +4,7 @@ This repository contains materials and tasks for the Fawry internship program, T
 
 ###The internship is onsite at the pretty new branch in Smart Village.
 
-![building image](./images/the build.jpg)
+![building image](./images/build.jpg)
 
 > [!NOTE]
 > It will be updated weekly, stay tuned . . .
