@@ -6,5 +6,11 @@ This repository contains materials and tasks for the Fawry internship program, T
 
 ![building image](./images/build.jpg)
 
-> [!NOTE]
-> It will be updated weekly, stay tuned . . .
+---
+
+## Intern Content
+
+- [Week1](Week1) : OOP, Git Version Control, Collections, Java-8
+- [Week2](Week2) :
+  > [!NOTE]
+  > It will be updated weekly, stay tuned . . .
