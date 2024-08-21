@@ -7,4 +7,4 @@ This repository contains materials and tasks for the Fawry internship program, T
 ![building image](./images/build.jpg)
 
 > [!NOTE]
-> It will be updated weekly, stay tuned . . .
+> It will be updated weekly, stay tuned . . . .
