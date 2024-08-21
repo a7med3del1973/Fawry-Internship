@@ -19,5 +19,5 @@ This repository contains materials and tasks for the Fawry internship program, T
 - [Collections](https://www.javatpoint.com/collections-in-java)
 - [Java-8](https://www.geeksforgeeks.org/java-8-features/)
 
-  > [!NOTE]
-  > It will be updated weekly, stay tuned . . .
+> [!NOTE]
+> It will be updated weekly, stay tuned . . .
