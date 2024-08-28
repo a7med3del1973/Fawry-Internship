@@ -10,7 +10,7 @@ This repository contains materials and tasks for the Fawry internship program, T
 
 ## Intern Content
 
-### [First Week](./Week01) : OOP, Git Version Control, Collections, Java-8
+### [First Week](./Week01/README.md) : OOP, Git Version Control, Collections, Java-8
 
 #### Material
 
