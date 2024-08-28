@@ -17,10 +17,9 @@ This repository contains materials and tasks for the Fawry internship program, T
 - [OOP](https://www.youtube.com/watch?v=FaaM6uVbuJM&list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv&pp=iAQB)
 - [Git-Version-Control](https://youtu.be/Q6G-J54vgKc?si=mPa_ty8SLz_CqrN0)
 - [Collections](https://www.javatpoint.com/collections-in-java)
-- [Java-8](https://www.geeksforgeeks.org/java-8-features/)
+- [Java-8](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
 
 > [!NOTE]
 
-> Dive into the weekly links to discover resources .
 
 > It will be updated weekly, stay tuned . . .
