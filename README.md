@@ -20,4 +20,7 @@ This repository contains materials and tasks for the Fawry internship program, T
 - [Java-8](https://www.geeksforgeeks.org/java-8-features/)
 
 > [!NOTE]
+
+> Dive into the weekly links to discover resources .
+
 > It will be updated weekly, stay tuned . . .
