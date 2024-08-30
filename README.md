@@ -19,7 +19,7 @@ This repository contains materials and tasks for the Fawry internship program, T
 - [Collections](https://www.javatpoint.com/collections-in-java)
 - [Java-8](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
 
-### Second Week : Intro to Web ,HTTP ,Maven ,JavaEE ,Unit testing &Design Patterns
+### Second Week : Intro to Web, HTTP, Maven, JavaEE, Unit testing & Design Patterns
 
 > [!NOTE]
 
