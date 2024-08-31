@@ -30,6 +30,5 @@ This repository contains materials and tasks for the Fawry internship program, T
 - [unit-testing](https://youtu.be/vZm0lHciFsQ?si=FtgmGlLefQSrCAQA)
 - [Design-Patterns](https://www.youtube.com/watch?v=xlYMFRQEHYA&t=2144s)
 
-- > [!NOTE]
-
+> [!NOTE]
 > It will be updated weekly, stay tuned . . .
