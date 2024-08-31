@@ -10,7 +10,7 @@ This repository contains materials and tasks for the Fawry internship program, T
 
 ## Intern Content
 
-### First Week : OOP, Git Version Control, Collections,Java & Java-8
+### [First Week](./Week02/README.md) : OOP, Git Version Control, Collections,Java & Java-8
 
 #### Material
 
@@ -19,8 +19,16 @@ This repository contains materials and tasks for the Fawry internship program, T
 - [Collections](https://www.javatpoint.com/collections-in-java)
 - [Java-8](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
 
-### Second Week : Intro to Web, HTTP, Maven, JavaEE, Unit testing & Design Patterns
+### [Second Week](./Week02/README.md) : Intro to Web(HTTP Protocol), Maven, Jakarta EE(Servlets & JSP), Unit testing & Design Patterns
 
-> [!NOTE]
+### Material
+
+- [Intro-to-Web](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+- [Maven](https://youtu.be/Xatr8AZLOsE?si=3RnVwwIRkihViC7r)
+- [Jakarta](https://www.youtube.com/watch?v=AJxBg90HM4s&list=PLPZy-hmwOdEXGQAlmUVdIdM3GVinPLLA3)
+- [unit-testing](https://youtu.be/vZm0lHciFsQ?si=FtgmGlLefQSrCAQA)
+- [Design-Patterns](https://www.youtube.com/watch?v=xlYMFRQEHYA&t=2144s)
+
+- > [!NOTE]
 
 > It will be updated weekly, stay tuned . . .
