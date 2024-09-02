@@ -35,5 +35,5 @@ This repository contains materials and tasks for the Fawry internship program, T
 
 - [Intro-to-DB](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t)
 
-  > [!NOTE]
-  > It will be updated weekly(Taskes will upload at the last week), stay tuned . . .
+> [!NOTE]
+> It will be updated weekly(Taskes will upload at the last week), stay tuned . . .
