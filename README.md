@@ -2,7 +2,7 @@
 
 This repository contains materials and tasks for the Fawry internship program, This comprehensive program covers both frontend and backend development, equipping me with web technologies Spring and Angular and software engineering principles .
 
-### The internship is onsite at the pretty new branch Quantum Building in Smart Village.
+### The internship is onsite at the pretty new branch Quantum Building in Smart Village .
 
 ![building image](./images/build.jpg)
 
@@ -10,7 +10,7 @@ This repository contains materials and tasks for the Fawry internship program, T
 
 ## Intern Content
 
-### [First Week](./Week02/README.md) : OOP, Git Version Control, Collections,Java & Java-8
+### [First Week](./Week02/README.md) : OOP, Git Version Control, Collections,Java & Java-8 .
 
 #### Material
 
@@ -19,8 +19,7 @@ This repository contains materials and tasks for the Fawry internship program, T
 - [Collections](https://www.javatpoint.com/collections-in-java)
 - [Java-8](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
 
-
-### [Second Week](./Week02/README.md) : Intro to Web, Maven, Jakarta EE, Unit testing & Design Patterns
+### [Second Week](./Week02/README.md) : Intro to Web, Maven, Jakarta EE, Unit testing & Solid Principles .
 
 #### Material
 
@@ -28,7 +27,13 @@ This repository contains materials and tasks for the Fawry internship program, T
 - [Maven](https://youtu.be/Xatr8AZLOsE?si=3RnVwwIRkihViC7r)
 - [Jakarta](https://www.youtube.com/watch?v=AJxBg90HM4s&list=PLPZy-hmwOdEXGQAlmUVdIdM3GVinPLLA3)
 - [unit-testing](https://youtu.be/vZm0lHciFsQ?si=FtgmGlLefQSrCAQA)
-- [Design-Patterns](https://www.youtube.com/watch?v=xlYMFRQEHYA&t=2144s)
+- [Solid Principles](https://youtu.be/MrDYsFbtFZM?si=tLnjMZopxGM5d8-T)
 
-> [!NOTE]
-> It will be updated weekly, stay tuned . . .
+### [Third Week](./Week03/README.md) : Intro to DB, Design Patterns .
+
+#### Material
+
+- [Intro-to-DB](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t)
+
+  > [!NOTE]
+  > It will be updated weekly(Taskes will upload at the last week), stay tuned . . .
