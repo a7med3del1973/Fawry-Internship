@@ -29,11 +29,11 @@ This repository contains materials and tasks for the **Fawry internship** progra
 - [unit-testing](https://youtu.be/vZm0lHciFsQ?si=FtgmGlLefQSrCAQA)
 - [Solid Principles](https://youtu.be/MrDYsFbtFZM?si=tLnjMZopxGM5d8-T)
 
-### [Third Week](./Week03/README.md) : Intro to DB, Design Patterns .
+### [Third Week](./Week03/README.md) : Database concepts, SQL, JDBC, ORM, JPA, JDBC
 
 #### Material
 
-- [Intro-to-DB](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t)
+- [Database concepts](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t)
 
 > [!NOTE]
 > It will be updated weekly(Taskes will upload at the last week), stay tuned . . .
