@@ -10,7 +10,7 @@ This repository contains materials and tasks for the **Fawry internship** progra
 
 ## Intern Content
 
-### [First Week](./Week02/README.md) : OOP, Git Version Control, Collections,Java & Java-8 .
+### [First Week](./Week02/) : OOP, Git Version Control, Collections,Java & Java-8 .
 
 #### Material
 
@@ -19,7 +19,7 @@ This repository contains materials and tasks for the **Fawry internship** progra
 - [Collections](https://www.javatpoint.com/collections-in-java)
 - [Java-8](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
 
-### [Second Week](./Week02/README.md) : Intro to Web, Maven, Jakarta EE, Unit testing & Solid Principles .
+### [Second Week](./Week02/) : Intro to Web, Maven, Jakarta EE, Unit testing & Solid Principles .
 
 #### Material
 
