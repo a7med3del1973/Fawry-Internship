@@ -10,7 +10,7 @@ This repository contains materials and tasks for the **Fawry internship** progra
 
 ## Intern Content
 
-### [First Week](./Week02/) : OOP, Git Version Control, Collections,Java & Java-8 .
+### [First Week](./Week02/) : OOP, Git Version Control, Collections, Java-8 .
 
 #### Material
 
