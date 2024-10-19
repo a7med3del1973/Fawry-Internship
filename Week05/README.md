@@ -19,4 +19,7 @@
 ### Agile & Scrum
 
 - [Agile intro](https://youtu.be/v6GoKHMa2rI?si=yg2RIN1nMwNN7ffg)
-- Fawry business
+
+#### other topic
+
+- Fawry business -> Meeting with Eng.Alaa abd elgwad .
