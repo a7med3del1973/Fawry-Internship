@@ -1,5 +1,4 @@
 # Design Patterns
-# Design Principles
 
 ## I can't explain & organize it better than my friend [Sakr_](https://github.com/Ahmed-Mohmed-Sakr/Fawry-Intern/tree/main/src/main/java/org/tasks/week1/Design_Principles) :)
 
