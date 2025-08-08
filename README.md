@@ -36,6 +36,8 @@ This repository contains materials and tasks for the **Fawry internship** progra
 - [Database concepts & SQL](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t)
 - [JDBC](https://youtu.be/CJjHdchLY9Y?si=MHa1pZEI2LmU4BHr)
 - [ORM & JPA](https://youtu.be/8SGI_XS5OPw?si=qpy7AV3_oDuYJC6v)
+- As you continue to grow in your backend development journey, I want to recommend a resource that I believe will be a game-changer for you. Strongly suggest you enroll in the Udemy course: [**Master Spring Boot & Spring Framework 6 with Java**](https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/?couponCode=KEEPLEARNING)
+
 
   > [!NOTE]
-  > It will be updated weekly(Taskes will upload at the last week), stay tuned . . .
+  > It will be updated weekly(Taskes will upload at the last week), stay tuned . . 
