@@ -38,4 +38,4 @@ This repository contains materials and tasks for the **Fawry internship** progra
 - [ORM & JPA](https://youtu.be/8SGI_XS5OPw?si=qpy7AV3_oDuYJC6v)
 
   > [!NOTE]
-  > It will be updated weekly(Taskes will upload at the last week), stay tuned . . .
+  > It will be updated weekly(Taskes will upload at the last week), stay tuned . . 
